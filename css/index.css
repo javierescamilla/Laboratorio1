@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td{
+    padding: 5px 5px;
+    text-align: justify;
+}
+.head{
+    background-color: lightseagreen;
+    border: 1pt solid black;
+    padding: 10px;
+}
+.education{
+    background-color: cornsilk;
+    border: 1pt solid black;
+}
+.languages{
+    background-color: cyan;
+    border: 1pt solid black;
+    text-align: center;
+}
+.work{
+    background-color: floralwhite;
+    border: 1pt solid black;
+}
+.projects{
+    background-color: darksalmon;
+    border: 1pt solid black;
+}
+.skills{
+    background-color: deepskyblue;
+    border: 1pt solid black;
+}
+#datos{
+    margin-left: auto;
+    margin-right: auto;
+}
+#number{
+    color: lightskyblue;
+    align-self: right;
+}
+#roborregos{
+    text-align: center;
+    color: black;
+}
+#text{
+    padding-left: 10%;
+}
